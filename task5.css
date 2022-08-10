@@ -1,0 +1,93 @@
+
+.b1{
+  padding-top: 100px;
+  border-radius: 50px;
+  border-width: thin;
+  padding: 30px;
+  cursor: pointer;
+  display: inline-block;
+  transition: all 0.5s;
+  font-size: 40px;
+  padding: 10px;
+  margin-left: 700px;
+  margin-top: 180px;
+  position: absolute;
+
+}
+.b1:hover{
+  color:white;
+  background-color: red;
+}
+.b2{
+  font-size: 40px;
+
+  padding: 10px;
+  border-radius: 50px;
+  border-width: thin;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-block;
+  transition: all 0.5s;
+  margin-left:900px;
+  margin-top: 285px;
+  position: absolute;
+
+
+}
+.b2:hover{
+  color:white;
+  background-color: red;
+}
+.b4{
+  font-size: 40px;
+  transition: all 0.5s;
+  border-radius: 50px;
+  border-width: thin;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-block;
+
+  padding: 10px;
+  margin-left:560px;
+  margin-top: 285px;
+  position: absolute;
+
+}
+.b4:hover{
+  color:white;
+  background-color: red;
+}
+.b5{
+  font-size: 40px;
+  padding: 10px;
+  transition: all 0.5s;
+  border-radius: 50px;
+  border-width: thin;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-block;
+  margin-left:685px;
+  margin-top: 400px;
+  position: absolute;
+}
+.b5:hover{
+  color:white;
+  background-color: red;
+}
+.b3{
+  font-size: 40px;
+  padding: 10px;
+  transition: all 0.5s;
+  border-radius: 50px;
+  border-width: thin;
+  padding: 10px;
+  cursor: pointer;
+  display: inline-block;
+  margin-left:730px;
+  margin-top: 285px;
+  position: absolute;
+}
+.b3:hover{
+  color:white;
+  background-color: red;
+}
